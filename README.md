@@ -7,3 +7,5 @@ This will be an overview on how to use:
 - Cookies
 - CSRF Tokens
 - Usernames and Passwords
+
+Tutorial from [Alex Mux via YouTube](https://www.youtube.com/watch?v=OmLdoEMcr_Y)
