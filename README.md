@@ -1,11 +1,12 @@
 # Building a Login With Web Authentication
 
-This example shows how to build a login with Web Authentication in Golang.
+In this example I will be building a login with web authentication that uses the following:
 
-This will be an overview on how to use:
 - Sessions
 - Cookies
 - CSRF Tokens
 - Usernames and Passwords
+- Saving data to real database (PostgreSQL)
+- HTML templating via `html/template`
 
 Tutorial from [Alex Mux via YouTube](https://www.youtube.com/watch?v=OmLdoEMcr_Y)
